@@ -1,0 +1,3 @@
+numeros = [6, [3,2,[6,3, "hector"],1],2, 9, 5]
+mostrar= numeros [2][3][1][0]
+print(mostrar)
